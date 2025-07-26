@@ -35,7 +35,7 @@ The challenge is building out a blog preview card and get it looking as close to
 ### Links
 
 - Solution URL: [https://creative-tobi.github.io/Preview/](https://creative-tobi.github.io/Preview/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://frontend-preview.netlify.app/](https://frontend-preview.netlify.app/)
 
 ## My process
 
@@ -59,6 +59,6 @@ The challenge is building out a blog preview card and get it looking as close to
 
 ## Author
 
-- Website - [Creative-tobi](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Creative-tobi)
+- Website - [Creative-tobi](https://frontend-preview.netlify.app/)
+- Frontend Mentor - [@Creative-tobi](https://www.frontendmentor.io/profile/Creative-tobi)
 - Twitter - [@yaish15294](https://x.com/aish15294)
