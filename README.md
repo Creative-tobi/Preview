@@ -30,7 +30,7 @@ The challenge is building out a blog preview card and get it looking as close to
 
 ### Screenshot
 
-![Screenshot](./images/Screenshot.jpeg)
+![Screenshot](./assests/images/Screenshot.jpeg)
 
 ### Links
 
