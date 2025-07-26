@@ -58,4 +58,4 @@ The challenge is building out a blog preview card and get it looking as close to
 
 - Website - [Creative-tobi](https://frontend-preview.netlify.app/)
 - Frontend Mentor - [@Creative-tobi](https://www.frontendmentor.io/profile/Creative-tobi)
-- Twitter - [@yaish15294](https://x.com/aish15294)
+- Twitter - [@aish15294](https://x.com/aish15294)
