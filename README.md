@@ -30,7 +30,7 @@ The challenge is building out a blog preview card and get it looking as close to
 
 ### Screenshot
 
-![screenshot](./images/screenshot.jpg)
+![Screenshot](./images/Screenshot.jpg)
 
 ### Links
 
@@ -48,7 +48,12 @@ The challenge is building out a blog preview card and get it looking as close to
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- Improved my understanding of HTML structure for clean, semantic layout
+- Practiced using CSS for layout and styling, especially margin, padding, and alignment
+- Learned how to create a responsive card component
+- Strengthened my use of Flexbox to center content
+- Enhanced attention to design details like  spacing, and color consistency
+- Gained more confidence in working with real-world design challenges
 
 
 
