@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: auto;
+    /* background-color: hsl(47, 88%, 63%); */
+}
+
+body{
+     background-color: hsl(47, 88%, 63%);
+}
+.main{
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 3px 4px 1px 2px hsl(0, 0%, 7%);
+    width: 30%;
+    text-align: center;
+    border-radius: 12px;
+    border: 1px solid  hsl(0, 0%, 7%);
+    margin-top: 20px;
+}
+.illustrate{
+    width: 100%;
+    border-radius: 12px;
+}
+
+.content, .greg{
+    text-align: left;
+}
+
+.greg{
+    display: flex;
+    margin: 12px 0;
+    place-items: center;
+}
+.greg img{
+    width: 50px;
+}
+.greg p{
+    padding-left: 6px;
+    font-weight: 700;
+}
+
+.text{
+    color: hsl(0, 0%, 42%);
+}
+.title{
+    margin: 12px 0;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.title a:active{
+    color: hsl(47, 88%, 63%);
+}
+.title a{
+    text-decoration: none;
+    color: hsl(0, 0%, 7%);
+}
+
+button{
+    margin: 12px 0;
+    background-color: hsl(47, 88%, 63%);
+    border: none;
+    padding: 6px 16px;
+    border-radius: 4px;
+    font-weight: 700;
+}
